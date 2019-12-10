@@ -56,7 +56,7 @@ const Index = props => {
             mt={8}
           >
             <Link href="https://www.ui.ac.id/mahasiswa-ftui-menciptakan-aplikasi-tuker-id-untuk-transfer-antar-e-wallet/">
-              <ChakraLink href="/live">
+              <ChakraLink href="https://www.ui.ac.id/mahasiswa-ftui-menciptakan-aplikasi-tuker-id-untuk-transfer-antar-e-wallet/">
                 Tentang Kami <Icon name="link" mx="2px" />
               </ChakraLink>
             </Link>
