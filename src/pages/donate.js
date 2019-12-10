@@ -22,7 +22,7 @@ export default () => (
         <Text alignSelf="flex-start">
           Support me with donations through these platforms!
         </Text>
-        <Link isExternal href="https://karyakarsa.com/mathdroid">
+        <Link isExternal href="">
           <Button
             width="16rem"
             variant="solid"
@@ -32,7 +32,7 @@ export default () => (
             KaryaKarsa
           </Button>
         </Link>
-        <Link isExternal href="https://saweria.co/donate/mathdroid">
+        <Link isExternal href="">
           <Button
             width="16rem"
             variant="solid"
