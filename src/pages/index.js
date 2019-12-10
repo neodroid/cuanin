@@ -75,7 +75,7 @@ const Index = props => {
             mt={8}
           >
            
-            .
+            
           </Text>
         </Main>
 
