@@ -34,19 +34,19 @@ const Index = props => {
   return (
     <>
       <Head>
-        <title>Mathdroid</title>
+        <title>Transfer Cuan Antar E-Wallet</title>
       </Head>
       <Container>
         <Hero />
         <Main>
           <Heading as="h2" fontFamily="default">
-            Muhammad Mustadi. (Odi)
+            Halo! perkenalkan kami adalah mahasiswa S1 universitas indonesia.
           </Heading>
           <Heading as="h2" fontFamily="default">
-            Software. Product. Design.
+            Cuan.in adalah sebuah platform untuk mengirimkan saldo antar e-wallet.
           </Heading>
           <Heading as="h2" fontFamily="default">
-            Jakarta, Indonesia.
+            OVO.Gopay.DANA.LinkAja.PayPal.
           </Heading>
 
           <Text
