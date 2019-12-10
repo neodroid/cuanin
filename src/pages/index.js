@@ -40,7 +40,7 @@ const Index = props => {
         <Hero />
         <Main>
           <Heading as="h2" fontFamily="default">
-            Halo! perkenalkan kami adalah mahasiswa S1 universitas indonesia.
+            Halo! perkenalkan kami adalah mahasiswa S1 Universitas Indonesia.
           </Heading>
           <Heading as="h2" fontFamily="default">
             Cuan.in adalah sebuah platform untuk mengirimkan saldo antar e-wallet.
@@ -55,9 +55,9 @@ const Index = props => {
             fontWeight="bold"
             mt={8}
           >
-            <Link href="/live">
+            <Link href="https://www.ui.ac.id/mahasiswa-ftui-menciptakan-aplikasi-tuker-id-untuk-transfer-antar-e-wallet/">
               <ChakraLink href="/live">
-                Stream <Icon name="link" mx="2px" />
+                Tentang Kami <Icon name="link" mx="2px" />
               </ChakraLink>
             </Link>
             {". "}
@@ -74,23 +74,7 @@ const Index = props => {
             fontWeight="bold"
             mt={8}
           >
-            <Link href="https://github.com/mathdroid">
-              <ChakraLink href="https://github.com/mathdroid" isExternal>
-                Github <Icon name="external-link" mx="2px" />
-              </ChakraLink>
-            </Link>
-            .{" "}
-            <Link href="https://twitter.com/mathdroid">
-              <ChakraLink href="https://twitter.com/mathdroid" isExternal>
-                Twitter <Icon name="external-link" mx="2px" />
-              </ChakraLink>
-            </Link>
-            .{" "}
-            <Link href="https://instagram.com/mathdroid">
-              <ChakraLink href="https://instagram.com/mathdroid" isExternal>
-                Instagram <Icon name="external-link" mx="2px" />
-              </ChakraLink>
-            </Link>
+           
             .
           </Text>
         </Main>
@@ -98,10 +82,10 @@ const Index = props => {
         <DarkModeToggle />
         <Footer>
           <Text>
-            &copy; 2019 mathdroid.{" "}
+            &copy; 2019 cuanin.{" "}
             <ChakraLink
               isExternal
-              href="https://github.com/mathdroid/mathdro.id"
+              href=""
             >
               Repository <Icon name="external-link" mx="2px" />
             </ChakraLink>
@@ -123,10 +107,10 @@ const Index = props => {
               </Button>
             </ChakraLink>
           </Link>
-          <Link isExternal href="mailto:hello@mathdro.id">
+          <Link isExternal href="mailto:kevinahmad.f@gmail.com">
             <ChakraLink
               isExternal
-              href="mailto:hello@mathdro.id"
+              href="mailto:kevinahmad.f@gmail.com"
               flexGrow={3}
               mx={2}
             >
